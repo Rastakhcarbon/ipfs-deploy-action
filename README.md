@@ -298,3 +298,4 @@ See real-world examples:
   - Since the CAR is like a tarball of the full build with some additional metadata (merkle proofs), the upload will be as big as the build output. Pinning with the [Pinning API](https://github.com/ipfs/pinning-services-api-spec) in contrast is just a request to instruct the pinning service to retrieve and pin the data. CAR uploads are supported by Kubo, IPFS Cluster, and Filebase.
 - How can I update DNSLink?
   - See https://github.com/ipfs/dnslink-action as a complement to this action.
+
